@@ -16,6 +16,7 @@ Follow these steps to get the project up and running on your local machine.
 # Copy the example .env file to create your own local configuration
 cp .env.example .env
 ```
+> Update the  `POST_ENDPOINT` variable with your own endpoint.
 
 ### 2. How to Run
 ```shell
